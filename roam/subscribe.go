@@ -3,7 +3,8 @@ package roam
 import (
 	"errors"
 	"fmt"
-	"roam-go/roam/helpers"
+
+	"github.com/geosparks/roam-go/roam/helpers"
 )
 
 func (c *subscription) Subscribe(handler MessageHandler) error {
