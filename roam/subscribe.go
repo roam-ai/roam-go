@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/geosparks/roam-go/roam/helpers"
+	"github.com/roam-ai/roam-go/roam/helpers"
 )
 
 func (c *subscription) Subscribe(handler MessageHandler) error {

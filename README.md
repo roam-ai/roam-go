@@ -9,7 +9,7 @@ roam-go supports subscription to the following location data:
 ## Installation
 You can install our Golang library as mentioned below.
 ```
-go get -u github.com/geosparks/roam-go/roam
+go get -u github.com/roam-ai/roam-go/roam
 ```
 
 ## Example Usage
@@ -24,7 +24,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/geosparks/roam-go/roam"
+	"github.com/roam-ai/roam-go/roam"
 	"time"
 )
 func main() {
@@ -52,7 +52,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/geosparks/roam-go/roam"
+	"github.com/roam-ai/roam-go/roam"
 	"time"
 )
 func main() {
@@ -81,7 +81,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/geosparks/roam-go/roam"
+	"github.com/roam-ai/roam-go/roam"
 	"time"
 )
 func main() {

@@ -1,4 +1,4 @@
-module github.com/geosparks/roam-go
+module github.com/roam-ai/roam-go
 
 go 1.15
 

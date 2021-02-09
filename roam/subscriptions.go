@@ -1,7 +1,7 @@
 package roam
 
 import (
-	"github.com/geosparks/roam-go/roam/helpers"
+	"github.com/roam-ai/roam-go/roam/helpers"
 
 	mqtt "github.com/eclipse/paho.mqtt.golang"
 )
